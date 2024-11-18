@@ -36,7 +36,6 @@ cd Dslist
 # Autor
 Eric soares dos santos
 
-https://www.linkedin.com/in/eric-soares-73b27412a/details/skills/
-
+www.linkedin.com/in/eric-soares-73b27412a
 
 ericnssantos@gmail.com
